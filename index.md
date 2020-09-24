@@ -8,4 +8,6 @@
 layout: home
 ---
 
-<h1> ALERT! </h1>
+<h2> ALERT! </h2>
+
+<h3> You can write something here </h3>
