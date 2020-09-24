@@ -1,4 +1,4 @@
-title: Trying random things
+title: Still trying random things
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -10,6 +10,9 @@ url: https://controversialthoughts.github.io/minima/
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+disqus:
+  shortname: https-controversialthoughts-github-io-minima
+
 default:
   values:
     comments: true
@@ -19,9 +22,6 @@ default:
 minima:
   skin: solarized-dark
   date_format: "%b %-d, %Y"
-  
-  disqus:
-    shortname: https-controversialthoughts-github-io-minima
 
   # generate social links in footer
   social_links:
