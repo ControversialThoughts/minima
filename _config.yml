@@ -1,4 +1,4 @@
-title: Still trying random things
+title: It works :')
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -12,10 +12,6 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 disqus:
   shortname: https-controversialthoughts-github-io-minima
-
-default:
-  values:
-    comments: true
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
